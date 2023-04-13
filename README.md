@@ -10,7 +10,7 @@ In the first part of this lab, you will use Pandas pivot table to extract insigh
 
 ## Getting Started
 
-Open the `main.ipynb` file in the `your-code` directory. There are 3 exercises and in each exercise you will work with 3 different datasets. The datasets are in the same directory. Please keep in mind that you might also need to use some of the functions you saw in the previous lessons. Remember there is a common thread!! 
+Open the `main.ipynb` file in the `your-code` directory. 
 
 ## Deliverables
 
@@ -18,7 +18,7 @@ Open the `main.ipynb` file in the `your-code` directory. There are 3 exercises a
 
 ## Submission
 
-Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
+Upon completion, add your deliverables to git. Then commit, and push your solution to your fork.
 
 ## Resources
 
